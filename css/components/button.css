@@ -1,0 +1,21 @@
+.btn-pink {
+	background-color: #C1666B;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-yellow {
+	background-color: #D4B483;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	transition: all	0.2s;
+}
+
+.btn-yellow:hover {
+	transform: scale(1.1);
+	transition: all 0.2s;
+}
